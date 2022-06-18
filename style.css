@@ -36,6 +36,11 @@ a {
     margin-bottom: -20px;
     text-shadow: 3px 3px lightgray;
 }
+#poster {
+    text-align: right;
+    color: blue;
+    font-size: 0.8em;
+}
 .return {
     font-size: 10pt;
     color: blue;
@@ -49,7 +54,6 @@ a {
     width: 200px;
     margin: auto;
     text-align: center;
-
 }
 #active {
     background-image:linear-gradient(#FFC5B5, #FF7A68);
